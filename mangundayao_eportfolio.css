@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(176,74,74);
+}
+
+.heading {
+  color: rgb(176, 74, 74);
+  text-align: center;
+  background-color: #FFF;
+  font-size: 400%;
+}
+
+h1 {
+  font-family: verdana;
+}
+
+.vid1 {
+  color: white;
+  border: 5px solid #FFF;
+  float: left;
+  margin-left: 5px;
+}
+
+.vid2 {
+  color: white;
+  border: 5px solid #FFF;
+  float: left;
+  margin-left: 5px;
+}
+
+.magcvr {
+  color: white;
+  border: 5px solid #FFF;
+  float: left;
+  margin-left: 5px;
+}
+
+.image {
+  border: 5px solid #FFF;
+  float: left;
+  margin-left: 5px;
+}
+
+p {
+  color: rgb(176, 74, 74);
+  font-family: verdana;
+  text-align: center;
+  background-color: #FFF;
+  font-size: 250%;
+}
